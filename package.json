@@ -1,0 +1,24 @@
+{
+  "name": "invoicing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "sanoma",
+    "check": "sanoma check",
+    "env": "sanoma env"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^4.9.0",
+    "@sanoma-ai/connector-anthropic": "latest",
+    "@sanoma-ai/connector-github": "latest",
+    "@sanoma-ai/connector-openai": "latest",
+    "@sanoma-ai/connector-opencode": "latest",
+    "@sanoma-ai/connector-pi": "latest",
+    "@sanoma-ai/connector-resend": "latest",
+    "@sanoma-ai/connector-sanoma-cloud": "latest",
+    "sanoma": "latest"
+  },
+  "engines": {
+    "node": ">=26"
+  }
+}
