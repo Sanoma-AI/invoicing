@@ -9,14 +9,14 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^4.9.0",
-    "@sanoma-ai/connector-anthropic": "0.11.23",
-    "@sanoma-ai/connector-github": "0.11.23",
-    "@sanoma-ai/connector-openai": "0.11.23",
-    "@sanoma-ai/connector-opencode": "0.11.23",
-    "@sanoma-ai/connector-pi": "0.11.23",
-    "@sanoma-ai/connector-resend": "0.11.23",
-    "@sanoma-ai/connector-sanoma-cloud": "0.11.23",
-    "sanoma": "0.11.23"
+    "@sanoma-ai/connector-anthropic": "0.11.24",
+    "@sanoma-ai/connector-github": "0.11.24",
+    "@sanoma-ai/connector-openai": "0.11.24",
+    "@sanoma-ai/connector-opencode": "0.11.24",
+    "@sanoma-ai/connector-pi": "0.11.24",
+    "@sanoma-ai/connector-resend": "0.11.24",
+    "@sanoma-ai/connector-sanoma-cloud": "0.11.24",
+    "sanoma": "0.11.24"
   },
   "engines": {
     "node": ">=26"

@@ -12,29 +12,29 @@ importers:
         specifier: ^4.9.0
         version: 4.9.0(react@19.3.1)
       '@sanoma-ai/connector-anthropic':
-        specifier: 0.11.23
-        version: 0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
       '@sanoma-ai/connector-github':
-        specifier: 0.11.23
-        version: 0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
       '@sanoma-ai/connector-openai':
-        specifier: 0.11.23
-        version: 0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
       '@sanoma-ai/connector-opencode':
-        specifier: 0.11.23
-        version: 0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
       '@sanoma-ai/connector-pi':
-        specifier: 0.11.23
-        version: 0.11.23(@aws-sdk/credential-provider-node@3.972.95)(@smithy/signature-v4@5.7.5)(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(supports-color@11.0.0)(ws@8.22.2)(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(@aws-sdk/credential-provider-node@3.972.95)(@smithy/signature-v4@5.7.5)(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(supports-color@11.0.0)(ws@8.22.2)(zod@4.6.7)
       '@sanoma-ai/connector-resend':
-        specifier: 0.11.23
-        version: 0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
       '@sanoma-ai/connector-sanoma-cloud':
-        specifier: 0.11.23
-        version: 0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
+        specifier: 0.11.24
+        version: 0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)
       sanoma:
-        specifier: 0.11.23
-        version: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+        specifier: 0.11.24
+        version: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
 
 packages:
 
@@ -1704,53 +1704,53 @@ packages:
     os: [linux]
     hasBin: true
 
-  '@sanoma-ai/connector-anthropic@0.11.23':
-    resolution: {integrity: sha512-vwrQ15/mXmcu6zAvBGmPBCNJOPr3WMseYtzv5UFdui57gAWE2xnwYwNWcKyX92T8sSIpP6c9r2B5hr4x4u3owg==}
+  '@sanoma-ai/connector-anthropic@0.11.24':
+    resolution: {integrity: sha512-7AATxr4Hpn9JogZZc3NJoZ8cHP7dtAiZ1cdG4HzHqpxUDOoTlEPeXkgbNu/knIobEWqRgYazG9GY7gst4bwH0A==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
-  '@sanoma-ai/connector-github@0.11.23':
-    resolution: {integrity: sha512-6Yu3Y/CPbCvU2ZlTLsF/FnQd2qhsiimxNT7ySipRvvjF0rk0Z5mb4jP9vjtR5crv+s69IFCqr1pzuP5vWjh4jQ==}
+  '@sanoma-ai/connector-github@0.11.24':
+    resolution: {integrity: sha512-R1cE9Qyt2GK172qIiZSyEWI9RKzt0KDyf6nTWkWdwbQh1cyqM6mkFDYp/5eswIF60D6JjTFqM5MTncyuZBxxjA==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
-  '@sanoma-ai/connector-openai@0.11.23':
-    resolution: {integrity: sha512-ergJ7XXjP5V3emyMuEFPLJxkPKoXik2+kFEkaqtH5nEh/5aKh+zCzi4RlTzF9cT1Mjo9SUYFF262cGELe+xHvw==}
+  '@sanoma-ai/connector-openai@0.11.24':
+    resolution: {integrity: sha512-/L6nQ/qc+o5YSG5AAGF5NTux8ixF83bWYyP3WF9i7jpImUEG7hSth3TSr55Pzq6bN69Uo+whMAr0zybHE+5pbg==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
-  '@sanoma-ai/connector-opencode@0.11.23':
-    resolution: {integrity: sha512-Cs4BZycoAlnCGnYIAu8ee7pgiBmI/KyDgOS/b4mChmBIlHVypZ+B2Rw65/kmjH5YYmjCA5XJLI40VqPyTnPSEg==}
+  '@sanoma-ai/connector-opencode@0.11.24':
+    resolution: {integrity: sha512-YawhQ0o2ZwMm90KYOPzhWnV5GkOHuT6fqZwiqohBucDxK2wnBkB9Wj/IwguvMpsJNatGlLmHaB0aXC4mijtutw==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
-  '@sanoma-ai/connector-pi@0.11.23':
-    resolution: {integrity: sha512-KjoIiyQrqB8yukD18acbt+IBSSXBNFkHPzXbzXftM+9xlyTDCQPyGfStGCsOt4HMYAz1D8bKb21K/tauR0HZxg==}
+  '@sanoma-ai/connector-pi@0.11.24':
+    resolution: {integrity: sha512-UH9SAgd2w45/4lixfEBgb8aa1dJsw+9bVnwEpIrGs+Y6TrLU0+AlTDxSRXnP8KbecEwgbmY5SKcfhUwiFPgvYQ==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
-  '@sanoma-ai/connector-resend@0.11.23':
-    resolution: {integrity: sha512-4aPKtoclEQ7VakUPziox7s3nxtgGCdjeUhxYqGe5EI/+OeyI9GqhQ6ThUgy+AFY5RVu4j4jGmjSzP008o1fycQ==}
+  '@sanoma-ai/connector-resend@0.11.24':
+    resolution: {integrity: sha512-eQphGH2fgn4KC+k6CGFw6jz+ovQt9VpoBl3gNO/C2NpUGjneFMi9W4w+NviNCAjMBJjMainM74ibuwxpKqS61Q==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
-  '@sanoma-ai/connector-sanoma-cloud@0.11.23':
-    resolution: {integrity: sha512-K/ZSbCaPsYtRJ7YYParG0KI+9BEDaPwIB2UpU0wbhMFwXbZ/L9WKXvtdFFTc7iENLOUJEf3XZpDbcgYLs6jzcA==}
+  '@sanoma-ai/connector-sanoma-cloud@0.11.24':
+    resolution: {integrity: sha512-n1zbDZRaAsY9JwMbuHEWxGsoItkDV85yss8nhHs58iCwmmnobDo6v5SsWD7V7igVMRJNB2hIfJnXfL3GDgiPCQ==}
     engines: {node: '>=26'}
     peerDependencies:
-      sanoma: 0.11.23
+      sanoma: 0.11.24
       zod: ^4
 
   '@sanoma-ai/postgres-darwin-arm64@0.1.0':
@@ -2466,6 +2466,11 @@ packages:
 
   ajv-formats@2.1.1:
     resolution: {integrity: sha512-Wx0Kx52hxE7C18hkMEggYlEifqWZtYaRgouJor+WMdPnQyEK13vgEWyVNup7SoeeoLMsr4kf5h6dOW11I15MUA==}
+    peerDependencies:
+      ajv: ^8.0.0
+    peerDependenciesMeta:
+      ajv:
+        optional: true
 
   ajv@8.20.0:
     resolution: {integrity: sha512-Thbli+OlOj+iMPYFBVBfJ3OmCAnaSyNn4M1vz9T6Gka5Jt9ba/HIR56joy65tY6kx/FCF5VXNB819Y7/GUrBGA==}
@@ -4129,6 +4134,7 @@ packages:
   postcss-selector-parser@7.2.0:
     resolution: {integrity: sha512-Khh/tERVBn0I1499dvBSHY0pWJloMJWUxDsOBM0CCDPAcVZ10Jl2L1qy1f19uEX22spa8Mv7DCdEQJc0cGwBhQ==}
     engines: {node: '>=4'}
+    deprecated: Double-escapes CSS Modules class names (#362). Use 7.2.1.
 
   postcss-value-parser@4.2.0:
     resolution: {integrity: sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==}
@@ -4344,8 +4350,8 @@ packages:
   safe-buffer@5.2.1:
     resolution: {integrity: sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==}
 
-  sanoma@0.11.23:
-    resolution: {integrity: sha512-KattnrWA95EaFn06Ufuf/w3VsXwAQBkXHlfPzeTO0aW0hVIqSjlLEQaElt6ZOwASHOD7Qp976x/n8dv3nB3R6A==}
+  sanoma@0.11.24:
+    resolution: {integrity: sha512-oP452Lz/fLbWwrrehqLHaujyElAqKWModDFQmVY3nEZzl7Q6CKLOL9wQJcKynJ4g6nzckogXBguCcRRNjZJaoQ==}
     engines: {node: '>=26'}
     hasBin: true
     peerDependencies:
@@ -5158,7 +5164,7 @@ snapshots:
       '@aws-sdk/types': 3.975.1
       '@smithy/core': 3.40.0
       '@smithy/fetch-http-handler': 5.8.1
-      '@smithy/node-http-handler': 4.12.1
+      '@smithy/node-http-handler': 4.14.2
       '@smithy/types': 4.20.0
       tslib: 2.9.1
 
@@ -6632,37 +6638,37 @@ snapshots:
   '@sanoma-ai/bridge-linux-x64@0.5.0':
     optional: true
 
-  '@sanoma-ai/connector-anthropic@0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
+  '@sanoma-ai/connector-anthropic@0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
     dependencies:
       '@ai-sdk/anthropic': 4.0.88(zod@4.6.7)
       '@ai-sdk/harness-claude-code': 1.0.162(zod@4.6.7)
       '@ai-sdk/provider': 4.0.34
       ai: 7.0.153(zod@4.6.7)
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
 
-  '@sanoma-ai/connector-github@0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
+  '@sanoma-ai/connector-github@0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
     dependencies:
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
 
-  '@sanoma-ai/connector-openai@0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
+  '@sanoma-ai/connector-openai@0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
     dependencies:
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
 
-  '@sanoma-ai/connector-opencode@0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
+  '@sanoma-ai/connector-opencode@0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
     dependencies:
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
 
-  '@sanoma-ai/connector-pi@0.11.23(@aws-sdk/credential-provider-node@3.972.95)(@smithy/signature-v4@5.7.5)(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(supports-color@11.0.0)(ws@8.22.2)(zod@4.6.7)':
+  '@sanoma-ai/connector-pi@0.11.24(@aws-sdk/credential-provider-node@3.972.95)(@smithy/signature-v4@5.7.5)(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(supports-color@11.0.0)(ws@8.22.2)(zod@4.6.7)':
     dependencies:
       '@ai-sdk/harness-pi': 1.0.160(@aws-sdk/credential-provider-node@3.972.95)(@smithy/signature-v4@5.7.5)(supports-color@11.0.0)(ws@8.22.2)(zod@4.6.7)
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
     transitivePeerDependencies:
       - '@aws-sdk/credential-provider-node'
@@ -6675,14 +6681,14 @@ snapshots:
       - utf-8-validate
       - ws
 
-  '@sanoma-ai/connector-resend@0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
+  '@sanoma-ai/connector-resend@0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
     dependencies:
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
 
-  '@sanoma-ai/connector-sanoma-cloud@0.11.23(sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
+  '@sanoma-ai/connector-sanoma-cloud@0.11.24(sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2))(zod@4.6.7)':
     dependencies:
-      sanoma: 0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
+      sanoma: 0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2)
       zod: 4.6.7
 
   '@sanoma-ai/postgres-darwin-arm64@0.1.0':
@@ -7393,8 +7399,8 @@ snapshots:
       '@ai-sdk/provider-utils': 5.0.68(zod@4.6.7)
       zod: 4.6.7
 
-  ajv-formats@2.1.1:
-    dependencies:
+  ajv-formats@2.1.1(ajv@8.20.0):
+    optionalDependencies:
       ajv: 8.20.0
 
   ajv@8.20.0:
@@ -7605,7 +7611,7 @@ snapshots:
   conf@10.2.0:
     dependencies:
       ajv: 8.20.0
-      ajv-formats: 2.1.1
+      ajv-formats: 2.1.1(ajv@8.20.0)
       atomically: 1.7.0
       debounce-fn: 4.0.0
       dot-prop: 6.0.1
@@ -8862,7 +8868,7 @@ snapshots:
   normalize-package-data@8.0.0:
     dependencies:
       hosted-git-info: 9.0.3
-      semver: 7.8.5
+      semver: 7.8.6
       validate-npm-package-license: 3.0.4
 
   normalize-svg-path@1.1.0:
@@ -9378,7 +9384,7 @@ snapshots:
 
   safe-buffer@5.2.1: {}
 
-  sanoma@0.11.23(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2):
+  sanoma@0.11.24(@opentelemetry/api@1.10.0)(@react-pdf/renderer@4.9.0(react@19.3.1))(@tanstack/db@1.0.0-rc.1.3(typescript@7.0.2))(@tanstack/query-core@5.107.1)(@tanstack/router-core@1.171.39)(esbuild@0.28.2)(jiti@2.7.0)(kysely@0.29.8)(rolldown@1.2.18)(supports-color@11.0.0)(workerd@1.20261023.1)(ws@8.22.2):
     dependencies:
       '@agentclientprotocol/sdk': 2.0.2(zod@4.6.7)
       '@ai-sdk/harness': 1.0.158(ws@8.22.2)(zod@4.6.7)
@@ -9407,6 +9413,7 @@ snapshots:
       '@fontsource/ibm-plex-mono': 5.3.0
       '@google-cloud/kms': 6.3.0(supports-color@11.0.0)
       '@lezer/highlight': 1.2.5
+      '@modelcontextprotocol/server': 2.4.0
       '@phosphor-icons/react': 2.1.10(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
       '@shadcn/react': 0.3.1(@types/react@19.3.0)(react@19.3.1)
       '@tailwindcss/vite': 4.3.5(vite@8.3.7(@types/node@26.6.6)(esbuild@0.28.2)(jiti@2.7.0)(yaml@2.9.1))
